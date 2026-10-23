@@ -2,6 +2,6 @@
 
 \> whoami
 - 🚀 i'm carmen
-- 🔭 currently studying maths && computer science @ UPM
-- 🌱 jr developer @ amazon
+- 🔭 maths && computer science @ UPM
+- 🌱 software developer @ amazon
 - ⚡ passionate learner !!1!
